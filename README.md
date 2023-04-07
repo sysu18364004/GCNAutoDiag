@@ -1,1 +1,1 @@
-# GCNAutoDiagnosid
+# GCNAutoDiag
