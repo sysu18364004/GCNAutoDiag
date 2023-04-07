@@ -1,0 +1,11 @@
+#python main.py --train_size=1.0 --lambda=0.0 --use_load=False> output/simple_with_lab_0.txt
+#python main.py --train_size=1.0 --lambda=0.8 > output/simple_with_lab_08.txt
+#python main.py --train_size=1.0 --lambda=0.5 > output/simple_with_lab_05.txt
+#python main.py --train_size=1.0 --lambda=0.2 > output/simple_with_lab_02.txt
+python main.py --train_size=1.0 --lambda=0.1 > output/simple_with_lab_01.txt
+python main.py --train_size=1.0 --lambda=0.01 > output/simple_with_lab_001.txt
+python main.py --train_size=1.0 --lambda=0.001 > output/simple_with_lab_0001.txt
+python main.py --train_size=1.0 --lambda=0.0001 > output/simple_with_lab_00001.txt
+python main.py --train_size=1.0 --lambda=0.00001 > output/simple_with_lab_000001.txt
+python main.py --train_size=1.0 --lambda=0.000001 > output/simple_with_lab_0000001.txt
+python main.py --train_size=1.0 --lambda=0.0000001 > output/simple_with_lab_00000001.txt
